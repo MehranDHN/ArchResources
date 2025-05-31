@@ -1,9 +1,11 @@
-# Digital resources about Persian Architecture
+# Persian Architecture
 
 ## Overview
 The Persian Architecture Ontology is a structured knowledge representation designed to catalog and describe digital resources related to Persian architectural monuments. It leverages Semantic Web technologies, specifically RDF and OWL, to model concepts, relationships, and metadata about architectural entities and their associated resources. The ontology is built using standard vocabularies such as OWL, RDF, RDFS, FOAF, BIBO, and QUDT, and it incorporates the Persian (Farsi) language for cultural specificity.
 
 This ontology facilitates the organization, retrieval, and analysis of information about Persian architectural monuments, their documentation, and related metadata, making it a valuable tool for researchers, historians, and cultural heritage professionals.
+
+<img src="imgsrc/FS-FSA-2022-000190_framed2.jpg" alt=""/>
 
 ## Ontology Structure
 The ontology is defined with the following namespaces:
