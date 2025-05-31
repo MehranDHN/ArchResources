@@ -3,6 +3,92 @@
 ## Overview
 The Persian Architecture Ontology is a structured knowledge representation designed to catalog and describe digital resources related to Persian architectural monuments. It leverages Semantic Web technologies, specifically RDF and OWL, to model concepts, relationships, and metadata about architectural entities and their associated resources. The ontology is built using standard vocabularies such as OWL, RDF, RDFS, FOAF, BIBO, and QUDT, and it incorporates the Persian (Farsi) language for cultural specificity.
 
+This project aggregates and organizes digital resources (e.g., images, slides, engravings, architectural plans) related to Persian architectural monuments using Semantic Web technologies. The workflow leverages the Internet Archive for resource hosting, IIIF (International Image Interoperability Framework) for standardized access, and a custom Python script to search, process, and generate RDF data based on the Persian Architecture Ontology (`mdhn:`). The resulting RDF data links digital resources to monuments and their associated metadata, enabling structured queries and analysis.
+
+## Workflow Description
+The project follows a streamlined process to aggregate and represent digital resources as RDF data, integrating metadata and taxonomy terms. Below is the step-by-step workflow:
+
+### 1. Resource Hosting on the Internet Archive
+- **Description**: Digital resources, represented as instances of `mdhn:VisualArtwork`, are uploaded to the Internet Archive and is available  [Here](https://archive.org/search?query=genre%3A%22Persian+Architecture%22&page=2).
+
+
+
+- **IIIF Manifest Creation**: Upon upload, the Internet Archive automatically generates an IIIF manifest for each resource. These manifests are JSON files that describe the resource’s structure, metadata, and access details, ensuring interoperability with IIIF-compliant viewers.
+- **Metadata**: Each resource includes simple key-value pair metadata in a `genre` field, which defines the subject or category of the resource (e.g., "Islamic architecture," "Tilework").
+
+### 2. Search and Retrieval
+- **Search Mechanism**: A Python script queries the Internet Archive to identify resources within a specific collection based on predefined values in the `genre` field.
+- **Output Format**: The search results are returned in a JSON file, listing unique items in the collection. Each item includes A unique identifier which is more than enough to access the `IIIF manifest` of the resource.
+
+
+### 3. Parsing IIIF Manifests
+- **Manifest Processing**: The Python script loads and parses the IIIF manifest for each resource in the search results.
+- **Metadata Extraction**: The script extracts metadata, focusing on the `genre` and `subject` fields, which specifies subjects or themes associated with the resource. Specially the subjects are mapped to instances of `mdhn:SubjectTerm` in the ontology.
+- **Monument Association**: Each resource is linked to a specific Persian architectural monument (an instance of `mdhn:CHABuilding`) via the `mdhn:hasDepicts` object property, as specified in the manifest or metadata.
+
+### 4. RDF Generation
+- **Ontology Integration**: The script generates RDF triples based on the Persian Architecture Ontology (`mdhn:`), which defines classes (e.g., `mdhn:CHABuilding`, `mdhn:VisualArtwork`, `mdhn:SubjectTerm`) and object properties (e.g., `mdhn:hasDepicts`, `mdhn:hasSubject`).
+- **Data Representation**:
+  - Each resource is represented as an instance of `mdhn:VisualArtwork`.
+  - The monument it depicts is represented as an instance of `mdhn:CHABuilding`, linked via `mdhn:hasDepicts`.
+  - Subjects from the `subject` field are represented as instances of `mdhn:SubjectTerm`, linked via `mdhn:hasSubject`.
+  - The `genre` field is used to uniquly  choose the resources that directly related to this project. 
+- **Output**: The RDF data is serialized in a format compatible with the ontology (e.g., Turtle), ready for loading into a triplestore (e.g., Apache Jena, GraphDB).
+
+### 5. Data Utilization
+- **Storage**: The generated RDF data is stored in the repository’s `/data` directory or loaded into a triplestore for querying.
+- **Querying**: The RDF data can be queried using SPARQL to retrieve information about monuments, their associated digital resources, and taxonomy terms.
+- **Applications**: The structured data supports cultural heritage research, geospatial analysis, and educational applications by providing a rich, interconnected knowledge graph.
+
+## Example Workflow
+1. **Upload**: An image of the Jameh Mosque is uploaded to the Internet Archive with `genre: Islamic architecture`.
+2. **Search**: The Python script searches the Internet Archive for resources in the Persian architecture collection with `genre: Islamic architecture`, returning a JSON file with the image’s IIIF manifest and metadata.
+3. **Parse**: The script parses the manifest, extracting the `genre` value ("Islamic architecture") and the monument reference (e.g., `mdhn:JamehMosque`).
+4. **Generate RDF**:
+   ```turtle
+   @prefix mdhn: <http://www.example.org/persian-architecture#> .
+   @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+   mdhn:Resource1 a mdhn:VisualArtwork ;
+                  rdfs:label "Image of Jameh Mosque"@en ;
+                  mdhn:hasDepicts mdhn:JamehMosque ;
+                  mdhn:hasSubject mdhn:IslamicArchitecture .
+
+   mdhn:JamehMosque a mdhn:CHABuilding ;
+                    rdfs:label "Jameh Mosque"@en .
+
+   mdhn:IslamicArchitecture a mdhn:SubjectTerm ;
+                           rdfs:label "Islamic architecture"@en .
+   ```
+5. **Store and Query**: The RDF is stored and can be queried to find all resources depicting the Jameh Mosque or tagged with "Islamic architecture."
+
+## Technical Details
+- **Python Script**: The script uses libraries like `requests` for API calls to the Internet Archive, `json` for parsing manifests, and `rdflib` for generating RDF triples.
+- **IIIF Compliance**: Ensures resources are accessible via IIIF viewers, supporting high-resolution zooming and standardized metadata.
+- **Ontology**: The RDF data adheres to the Persian Architecture Ontology, with reconciliation to Archnet IDs, AAT terms, and Wikidata for interoperability.
+- **Output**: JSON search results and RDF data are stored in the repository for further processing or analysis.
+
+## Benefits
+- **Interoperability**: IIIF-compliant resources and standardized ontology ensure compatibility with global cultural heritage platforms.
+- **Scalability**: The automated workflow supports large-scale aggregation of resources.
+- **Discoverability**: Linking to Archnet, AAT, and Wikidata enhances resource discoverability.
+- **Flexibility**: The RDF data supports complex SPARQL queries for research and analysis.
+
+## Future Enhancements
+- The instances of mdhn:CHABuilding can be a very complex monument. Decomposing such monuments to multiple internal spaces which hierarchically belong to the master building.
+- Involving `CIDOC-CRM` to manage more sophisticated scenarios.
+- Automate reconciliation with AAT and Wikidata during RDF generation.
+- Controlled vocabulary with limited scope to specify the Resource Types.
+- Expand the script to support additional metadata fields or resource types.
+- Integrate with IIIF viewers for interactive resource exploration within the repository.
+- Target other GLAMs.
+
+## Repository Integration
+This workflow is implemented in the [Persian Architecture Digital Resources Repository](https://github.com/MehranDHN/ArchResources). Relevant files include:
+- **`/scripts`**: Python script for searching and RDF generation.(not published yet)
+- **`/data/turtles`**: RDF data and ontology.
+- **`/imgsrc`**: Images used in readme.md.
+
 This ontology facilitates the organization, retrieval, and analysis of information about Persian architectural monuments, their documentation, and related metadata, making it a valuable tool for researchers, historians, and cultural heritage professionals.
 
 <img src="imgsrc/FS-FSA-2022-000190_framed2.jpg" alt=""/>
