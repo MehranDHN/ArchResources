@@ -93,7 +93,7 @@ The ontology defines several object properties to describe relationships between
      - `rdfs:label`: "references"@en
      - `rdfs:comment`: "The monument that a digital resource describes or documents."@en
    - **Example**: A research paper (DigitalResource) referencing the Jameh Mosque (Monument).
-
+<img src="imgsrc/Graph_01.JPG" alt=""/>
 ## SPARQL Query Examples
 Below are example SPARQL queries demonstrating the capabilities of the RDF data based on this ontology. These queries assume the ontology is loaded into a triplestore (e.g., Apache Jena or GraphDB) with sample data.
 
