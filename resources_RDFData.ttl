@@ -1,0 +1,1341 @@
+@prefix mdhn: <http://example.com/mdhn/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+mdhn:kenyon_B_001 a mdhn:VisualArtwork ;
+    rdfs:label "Entrance to Friday Mosque kenyon_B_001"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Iwan,
+        mdhn:Mosque,
+        mdhn:Muqarnas,
+        mdhn:Pointed_Arches,
+        mdhn:Seljuk,
+        mdhn:Tiles,
+        mdhn:Twelfth_Century ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_001%2FB001%20Entrance%20to%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_002 a mdhn:VisualArtwork ;
+    rdfs:label "Ribbed Vaulting in Friday Mosque kenyon_B_002"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Brick,
+        mdhn:Decorated_Barrel_Vault,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Masonry,
+        mdhn:Pointed_Arches,
+        mdhn:Vaulting ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_002%2FB002%20Ribbed%20Vaulting%20in%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_003 a mdhn:VisualArtwork ;
+    rdfs:label "Interior of Friday Mosque kenyon_B_003"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Brick,
+        mdhn:Decorated_Barrel_Vault,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Masonry,
+        mdhn:Pointed_Arches,
+        mdhn:Vaulting ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_003%2FB003%20Interior%20of%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_004 a mdhn:VisualArtwork ;
+    rdfs:label "Decorated Column in Friday Mosque kenyon_B_004"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Carving,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Engaged_Columns,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Peirs,
+        mdhn:Red_Slides,
+        mdhn:Rosette,
+        mdhn:Stone ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_004%2FB004%20Decorated%20Column%20in%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_005 a mdhn:VisualArtwork ;
+    rdfs:label "Corridor in Friday Mosque kenyon_B_005"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Brick,
+        mdhn:Coridor,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Masonry,
+        mdhn:Piers,
+        mdhn:Vaulting ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_005%2FB005%20Corridor%20in%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_006 a mdhn:VisualArtwork ;
+    rdfs:label "Pointed Arches in Friday Mosque kenyon_B_006"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Coridor,
+        mdhn:Decorated_Barrel_Vault,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Pointed_Arches,
+        mdhn:Skylight ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_006%2FB006%20Pointed%20Arches%20in%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_007 a mdhn:VisualArtwork ;
+    rdfs:label "Brick Pier in Friday Mosque kenyon_B_007"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Brick,
+        mdhn:Columns,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Masonry,
+        mdhn:Piers,
+        mdhn:Pointed_Arches ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_007%2FB007%20Brick%20Pier%20in%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_008 a mdhn:VisualArtwork ;
+    rdfs:label "Lattice Windows in Friday Mosque kenyon_B_008"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Lattice_Windows,
+        mdhn:Pointed_Arches,
+        mdhn:Red_Slides ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_008%2FB008%20Lattice%20Windows%20in%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_009 a mdhn:VisualArtwork ;
+    rdfs:label "Lamp in Friday Mosque kenyon_B_009"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Carving,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Lamp,
+        mdhn:Muqarnas,
+        mdhn:Stone ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_009%2FB009%20Lamp%20in%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_010 a mdhn:VisualArtwork ;
+    rdfs:label "Brick Vault at Friday Mosque kenyon_B_010"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Brick,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Pointed_Arches,
+        mdhn:Vaulting ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_010%2FB010%20Brick%20Vault%20at%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_012 a mdhn:VisualArtwork ;
+    rdfs:label "Brick Vault in Friday Mosque kenyon_B_012"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Brick,
+        mdhn:Decorated_Barrel_Vault,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Pointed_Arches,
+        mdhn:Vaulting ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_012%2FB012%20Brick%20Vault%20in%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_013 a mdhn:VisualArtwork ;
+    rdfs:label "Kufic Script in Friday Mosque kenyon_B_013"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Brick,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Inscription,
+        mdhn:Kufic_Script,
+        mdhn:Masonry,
+        mdhn:Text ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_013%2FB013%20Kufic%20Script%20in%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_014 a mdhn:VisualArtwork ;
+    rdfs:label "Corridor in Friday Mosque kenyon_B_014"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Brick,
+        mdhn:Corridor,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Masonry,
+        mdhn:Pointed_Arches,
+        mdhn:Vaulting ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_014%2FB014%20Corridor%20in%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_015 a mdhn:VisualArtwork ;
+    rdfs:label "Decorated Barrel Vault kenyon_B_015"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Barrel_Vault,
+        mdhn:Decorated_Barrel_Vault,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Tiles,
+        mdhn:Vaulting ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_015%2FB%20015%20Decorated%20Barrel%20Vault.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_016 a mdhn:VisualArtwork ;
+    rdfs:label "Mihrab on Muzaffarid Madrasa kenyon_B_016"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Inscription,
+        mdhn:Mihrab,
+        mdhn:Muqarnas,
+        mdhn:Muzaffarid_Madrasa,
+        mdhn:Quranic_Inscription,
+        mdhn:Text,
+        mdhn:Thuluth_Script,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_016%2FB016%20Mihrab%20on%20Muzaffarid%20Madrasa.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_017 a mdhn:VisualArtwork ;
+    rdfs:label "Tiered Arches kenyon_B_017"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Courtyard_of_Friday_Mosque,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Iwan,
+        mdhn:Lattice_Windows,
+        mdhn:Mosque,
+        mdhn:Pointed_Arches,
+        mdhn:Red_Slides,
+        mdhn:Seljuk ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_017%2FB017%20Tiered%20Arches.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_018 a mdhn:VisualArtwork ;
+    rdfs:label "Southwest Iwan of Friday Mosque kenyon_B_018"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Courtyard,
+        mdhn:Courtyard_of_Friday_Mosque,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Full_View,
+        mdhn:Iwan,
+        mdhn:Minaret,
+        mdhn:Muqarnas,
+        mdhn:Seljuk,
+        mdhn:Southwest_Iwan_of_Friday_Mosque,
+        mdhn:Tiles,
+        mdhn:Twelfth_Century ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_018%2FB018%20Southwest%20Iwan%20of%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_019 a mdhn:VisualArtwork ;
+    rdfs:label "Southwest Iwan of Friday Mosque kenyon_B_019"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Courtyard,
+        mdhn:Courtyard_of_Friday_Mosque,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Iwan,
+        mdhn:Minaret,
+        mdhn:Muqarnas,
+        mdhn:People,
+        mdhn:Seljuk,
+        mdhn:Southwest_Iwan_of_Friday_Mosque,
+        mdhn:Tiles,
+        mdhn:Twelfth_Century ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_019%2FB019%20Southwest%20Iwan%20of%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_020 a mdhn:VisualArtwork ;
+    rdfs:label "Northwest Iwan of Friday Mosque kenyon_B_020"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Courtyard,
+        mdhn:Courtyard_of_Friday_Mosque,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Inscription,
+        mdhn:Iwan,
+        mdhn:Kufic_Script,
+        mdhn:Minaret,
+        mdhn:Muqarnas,
+        mdhn:Northwest_Iwan_of_Friday_Mosque,
+        mdhn:People,
+        mdhn:Quranic_Inscription,
+        mdhn:Seljuk,
+        mdhn:Text,
+        mdhn:Tiles,
+        mdhn:Twelfth_Century ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_020%2FB020%20Northwest%20Iwan%20of%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_021 a mdhn:VisualArtwork ;
+    rdfs:label "Marble Basin in Friday Mosque  kenyon_B_021"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Basin,
+        mdhn:Carving,
+        mdhn:Courtyard,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Inscription,
+        mdhn:Marble,
+        mdhn:Quranic_Inscription ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_021%2FB021%20Marble%20Basin%20in%20Friday%20Mosque%20Courtyard.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_022 a mdhn:VisualArtwork ;
+    rdfs:label "Northwest Iwan of Friday Mosque  kenyon_B_022"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Arches,
+        mdhn:Courtyard_of_Friday_Mosque,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Inscription,
+        mdhn:Iwan,
+        mdhn:Kufic_Script,
+        mdhn:Lattice_Windows,
+        mdhn:Muqarnas,
+        mdhn:Northwest_Iwan_of_Friday_Mosque,
+        mdhn:Pointed_Arches,
+        mdhn:Pool,
+        mdhn:Quranic_Inscription,
+        mdhn:Text,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_022%2FB022%20Northwest%20Iwan%20of%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_023 a mdhn:VisualArtwork ;
+    rdfs:label "Central Pool of Friday Mosque Courtyard  kenyon_B_023"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Courtyard,
+        mdhn:Courtyard_of_Friday_Mosque,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Lattice_Windows,
+        mdhn:Pool ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_023%2FB023%20Central%20Pool%20of%20Friday%20Mosque%20Courtyard.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_024 a mdhn:VisualArtwork ;
+    rdfs:label "Muqarnas in Southwest Iwan  kenyon_B_024"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Inscription,
+        mdhn:Kufic_Script,
+        mdhn:Muqarnas,
+        mdhn:Quranic_Inscription,
+        mdhn:Seljuk,
+        mdhn:Southwest_Iwan_of_Friday_Mosque,
+        mdhn:Text,
+        mdhn:Thuluth_Script,
+        mdhn:Tiles,
+        mdhn:Twelfth_Century ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_024%2FB024%20Muqarnas%20in%20Southwest%20Iwan.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_025 a mdhn:VisualArtwork ;
+    rdfs:label "Tile Decoration in Northwest Iwan  kenyon_B_025"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Brick,
+        mdhn:Decoration_and_Ornament,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Inscription,
+        mdhn:Mosque,
+        mdhn:Northwest_Iwan_of_Friday_Mosque,
+        mdhn:Quranic_Inscription,
+        mdhn:Seljuk,
+        mdhn:Text,
+        mdhn:Thuluth_Script,
+        mdhn:Tiles,
+        mdhn:Twelfth_Century ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_025%2FB025%20Tile%20Decoration%20in%20Northwest%20Iwan.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_026 a mdhn:VisualArtwork ;
+    rdfs:label "Tile Decoration in Northwest Iwan  kenyon_B_026"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Decoration_and_Ornament,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Inscription,
+        mdhn:Kufic_Script,
+        mdhn:Northwest_Iwan_of_Friday_Mosque,
+        mdhn:Quranic_Inscription,
+        mdhn:Seljuk,
+        mdhn:Text,
+        mdhn:Thuluth_Script,
+        mdhn:Tiles,
+        mdhn:Twelfth_Century ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_026%2FB026%20Tile%20Decoration%20in%20Northwest%20Iwan.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_027 a mdhn:VisualArtwork ;
+    rdfs:label "Tile Decoration in Northwest Iwan  kenyon_B_027"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Decoration_and_Ornament,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Inscription,
+        mdhn:Kufic_Script,
+        mdhn:Northwest_Iwan_of_Friday_Mosque,
+        mdhn:Quranic_Inscription,
+        mdhn:Seljuk,
+        mdhn:Thuluth_Script,
+        mdhn:Tiles,
+        mdhn:Twelfth_Century ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_027%2FB027%20Tile%20Decoration%20in%20Northwest%20Iwan.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_028 a mdhn:VisualArtwork ;
+    rdfs:label "Tile Decoration in Northwest Iwan  kenyon_B_028"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Decoration_and_Ornament,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Inscription,
+        mdhn:Quranic_Inscription,
+        mdhn:Seljuk,
+        mdhn:Southwest_Iwan_of_Friday_Mosque,
+        mdhn:Thuluth_Script,
+        mdhn:Tiles,
+        mdhn:Twelfth_Century ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_028%2FB028%20Tile%20Decoration%20in%20Southwest%20Iwan.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_029 a mdhn:VisualArtwork ;
+    rdfs:label "Vaulted Halls in Friday Mosque  kenyon_B_029"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Brick,
+        mdhn:Columns,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Masonry,
+        mdhn:Pointed_Arches,
+        mdhn:Red_Slides,
+        mdhn:Vaulting ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_029%2FB029%20Vaulted%20Halls%20in%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_030 a mdhn:VisualArtwork ;
+    rdfs:label "Vaulted Hall in Friday Mosque  kenyon_B_030"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Brick,
+        mdhn:Columns,
+        mdhn:Corridor,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Masonry,
+        mdhn:Pointed_Arches,
+        mdhn:Red_Slides,
+        mdhn:Vaulting ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_030%2FB030%20Vaulted%20Hall%20in%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_031 a mdhn:VisualArtwork ;
+    rdfs:label "Vaulted Hall in Friday Mosque  kenyon_B_031"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Brick,
+        mdhn:Columns,
+        mdhn:Corridor,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Masonry,
+        mdhn:Pointed_Arches,
+        mdhn:Red_Slides,
+        mdhn:Vaulting ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_031%2FB031%20Vaulted%20Hall%20in%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_032 a mdhn:VisualArtwork ;
+    rdfs:label "Vaulted Hall in Friday Mosque  kenyon_B_032"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Corridor,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Pointed_Arches,
+        mdhn:Red_Slides ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_032%2FB032%20Vaulted%20Hall%20in%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_033 a mdhn:VisualArtwork ;
+    rdfs:label "Muqarnas Skylight  kenyon_B_033"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Brick,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Masonry,
+        mdhn:Muqarnas,
+        mdhn:Red_Slides,
+        mdhn:Skylight,
+        mdhn:Vaulting ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_033%2FB033%20Muqarnas%20Skylight.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_034 a mdhn:VisualArtwork ;
+    rdfs:label "Vaulted Skylight kenyon_B_034"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Brick,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Masonry,
+        mdhn:Red_Slides,
+        mdhn:Ribbed_Vault,
+        mdhn:Skylight,
+        mdhn:Vaulting ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_034%2FB%20034%20Vaulted%20Skylight.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_035 a mdhn:VisualArtwork ;
+    rdfs:label "Lattice Window kenyon_B_035"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Islamic_Architecture,
+        mdhn:Lattice_Windows,
+        mdhn:Persian_Architecture ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_035%2FB%20035%20Lattice%20Window.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_036 a mdhn:VisualArtwork ;
+    rdfs:label "Domed Skylight kenyon_B_036"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Brick,
+        mdhn:Dome,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Masonry,
+        mdhn:Pointed_Arches,
+        mdhn:Red_Slides,
+        mdhn:Skylight ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_036%2FB036%20Domed%20Skylight.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_037 a mdhn:VisualArtwork ;
+    rdfs:label "Arched Room in Friday Mosque kenyon_B_037"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Brick,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Masonry,
+        mdhn:Pointed_Arches,
+        mdhn:Red_Slides,
+        mdhn:Skylight ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_037%2FB037%20Arched%20Room%20in%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_039 a mdhn:VisualArtwork ;
+    rdfs:label "Mihrab of Uljaytu  kenyon_B_039"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Arches,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Fourteenth_Century,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Full_View,
+        mdhn:Haydar,
+        mdhn:Ilkhanid,
+        mdhn:Inscription,
+        mdhn:Islamic_Stucco_Decoration,
+        mdhn:Mihrab,
+        mdhn:Mihrab_of_Uljaytu,
+        mdhn:Pointed_Arches,
+        mdhn:Red_Slides,
+        mdhn:Stone_Carving,
+        mdhn:Stucco,
+        mdhn:Stucco_Carving,
+        mdhn:Stucco_Decoration ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_039%2FB039%20Mihrab%20of%20Uljaytu.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_040 a mdhn:VisualArtwork ;
+    rdfs:label "Detail of Mihrab of Uljaytu kenyon_B_040"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Arches,
+        mdhn:Fourteenth_Century,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Haydar,
+        mdhn:Ilkhanid,
+        mdhn:Inscription,
+        mdhn:Mihrab,
+        mdhn:Mihrab_of_Uljaytu,
+        mdhn:Pointed_Arches,
+        mdhn:Red_Slides,
+        mdhn:Stone_Carving,
+        mdhn:Stucco,
+        mdhn:Text,
+        mdhn:Thuluth_Script ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_040%2FB040%20Detail%20of%20Mihrab%20of%20Uljaytu.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_041 a mdhn:VisualArtwork ;
+    rdfs:label "Stucco Calligraphy on Mihrab kenyon_B_041"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Fourteenth_Century,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Haydar,
+        mdhn:Ilkhanid,
+        mdhn:Inscription,
+        mdhn:Mihrab_of_Uljaytu,
+        mdhn:Red_Slides,
+        mdhn:Stone_Carving,
+        mdhn:Stucco,
+        mdhn:Text,
+        mdhn:Thuluth_Script ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_041%2FB041%20Stucco%20Calligraphy%20on%20Mihrab.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_043 a mdhn:VisualArtwork ;
+    rdfs:label "Iwan on Muzaffarid Madrasa kenyon_B_043"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Arches,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Fourteenth_Century,
+        mdhn:Inscription,
+        mdhn:Iwan,
+        mdhn:Kufic_Script,
+        mdhn:Muzaffarid,
+        mdhn:Muzaffarid_Madrasa,
+        mdhn:Pointed_Arches,
+        mdhn:Quranic_Inscription,
+        mdhn:Text,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_043%2FB043%20Iwan%20on%20Muzaffarid%20Madrasa.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_044 a mdhn:VisualArtwork ;
+    rdfs:label "Tiered Arches before Muzaffarid Madrasa kenyon_B_044"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Brick,
+        mdhn:Masonry,
+        mdhn:Muzaffarid,
+        mdhn:Muzaffarid_Madrasa,
+        mdhn:Pointed_Arches,
+        mdhn:Vaulting ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_044%2FB044%20Tiered%20Arches%20before%20Muzaffarid%20Madrasa.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_045 a mdhn:VisualArtwork ;
+    rdfs:label "Iwan Vault of Muzaffarid Madrasa kenyon_B_045"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Fourteenth_Century,
+        mdhn:Hazarbaf,
+        mdhn:Iwan,
+        mdhn:Muzaffarid,
+        mdhn:Muzaffarid_Madrasa,
+        mdhn:Pointed_Arches,
+        mdhn:Rozetta,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_045%2FB045%20Iwan%20Vault%20of%20Muzaffarid%20Madrasa.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_046 a mdhn:VisualArtwork ;
+    rdfs:label "Entrance to Muzaffarid Madrasa kenyon_B_046"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        <http://example.com/mdhn/Banna'i>,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Fourteenth_Century,
+        mdhn:Hazarbaf,
+        mdhn:Inscription,
+        mdhn:Kufic_Script,
+        mdhn:Muzaffarid,
+        mdhn:Muzaffarid_Madrasa,
+        mdhn:Quranic_Inscription,
+        mdhn:Text,
+        mdhn:Tiles,
+        mdhn:Vaulting ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_046%2FB046%20Entrance%20to%20Muzaffarid%20Madrasa.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_047 a mdhn:VisualArtwork ;
+    rdfs:label "Muqarnas in Iwan kenyon_B_047"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Inscription,
+        mdhn:Muqarnas,
+        mdhn:Quranic_Inscription,
+        mdhn:Rozetta,
+        mdhn:Seljuk,
+        mdhn:Southeast_Iwan_of_Friday_Mosque,
+        mdhn:Text,
+        mdhn:Thuluth_Script,
+        mdhn:Tiles,
+        mdhn:Twelfth_Century ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_047%2FB047%20Muqarnas%20in%20Iwan.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_048 a mdhn:VisualArtwork ;
+    rdfs:label "Masjid-e-Jameh (Friday Mosque) kenyon_B_048"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Arches,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Fourteenth_Century,
+        mdhn:Inscription,
+        mdhn:Kufic_Script,
+        mdhn:Mihrab,
+        mdhn:Muqarnas,
+        mdhn:Muzaffarid,
+        mdhn:Muzaffarid_Madrasa,
+        mdhn:Pointed_Arches,
+        mdhn:Quranic_Inscription,
+        mdhn:Rozetta,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_048%2FB048%20Masjid-e-Jameh%20(Friday%20Mosque).jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_049 a mdhn:VisualArtwork ;
+    rdfs:label "Northeastern Dome of Friday  kenyon_B_049"@en ;
+    mdhn:hasDepicts mdhn:site_1621 ;
+    mdhn:hasSubject mdhn:Brick_Masonry,
+        mdhn:Cars,
+        mdhn:Dome,
+        mdhn:Eleventh_Century,
+        mdhn:Friday_Mosque_of_Isfahan,
+        mdhn:Lattice_Windows,
+        mdhn:Seljuk,
+        mdhn:Taj_al_Mulk ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_049%2FB049%20Northeastern%20Dome%20of%20Friday%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_050 a mdhn:VisualArtwork ;
+    rdfs:label "Shah Mosque  kenyon_B_050"@en ;
+    mdhn:hasDepicts mdhn:site_1622 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Cars,
+        mdhn:Dome,
+        mdhn:Flowers,
+        mdhn:Full_View,
+        mdhn:Iwan,
+        mdhn:Minaret,
+        mdhn:Mosque,
+        mdhn:People,
+        mdhn:Pointed_Arches,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shah_Mosque_of_Isfahan ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_050%2FB050%20Shah%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_051 a mdhn:VisualArtwork ;
+    rdfs:label "Shah Mosque from Afar  kenyon_B_051"@en ;
+    mdhn:hasDepicts mdhn:site_1622 ;
+    mdhn:hasSubject mdhn:Dome,
+        mdhn:Minaret,
+        mdhn:Mosque,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shah_Mosque_of_Isfahan ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_051%2FB051%20Shah%20Mosque%20from%20Afar.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_052 a mdhn:VisualArtwork ;
+    rdfs:label "Entrance Portal of Shah Mosque kenyon_B_052"@en ;
+    mdhn:hasDepicts mdhn:site_1622 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Columns,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Engaged_Columns,
+        mdhn:Inscription,
+        mdhn:Quranic_Inscription,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shah_Mosque_of_Isfahan,
+        mdhn:Thuluth_Script,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_052%2FB052%20Entrance%20Portal%20of%20Shah%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_053 a mdhn:VisualArtwork ;
+    rdfs:label "Muqarnas on Column kenyon_B_053"@en ;
+    mdhn:hasDepicts mdhn:site_1622 ;
+    mdhn:hasSubject mdhn:Carving,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Marble,
+        mdhn:Muqarnas,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shah_Mosque_of_Isfahan ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_053%2FB053%20Muqarnas%20on%20Column.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_054 a mdhn:VisualArtwork ;
+    rdfs:label "Muqarnas at Entrance to Shah Mosque kenyon_B_054"@en ;
+    mdhn:hasDepicts mdhn:site_1622 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Inscription,
+        mdhn:Muqarnas,
+        mdhn:Quranic_Inscription,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shah_Mosque_of_Isfahan,
+        mdhn:Thuluth_Script,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_054%2FB054%20Muqarnas%20at%20Entrance%20to%20Shah%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_055 a mdhn:VisualArtwork ;
+    rdfs:label "Decorated Panel at Shah Mosquekenyon_B_055"@en ;
+    mdhn:hasDepicts mdhn:site_1622 ;
+    mdhn:hasSubject mdhn:Decoration_and_Ornaments,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shah_Mosque_of_Isfahan,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_055%2FB055%20Decorated%20Panel%20at%20Shah%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_056 a mdhn:VisualArtwork ;
+    rdfs:label "Decorated Panel at Shah Mosque kenyon_B_056"@en ;
+    mdhn:hasDepicts mdhn:site_1622 ;
+    mdhn:hasSubject mdhn:Decoration_and_Ornaments,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shah_Mosque_of_Isfahan,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_056%2FB056%20Decorated%20Panel%20at%20Shah%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_057 a mdhn:VisualArtwork ;
+    rdfs:label "Panels in Northeast Iwan of Shah Mosque kenyon_B_057"@en ;
+    mdhn:hasDepicts mdhn:site_1622 ;
+    mdhn:hasSubject mdhn:Decoration_and_Ornaments,
+        mdhn:Northeast_Iwan_of_Shah_Mosque,
+        mdhn:People,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shah_Mosque_of_Isfahan,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_057%2FB057%20Panels%20in%20Northeast%20Iwan%20of%20Shah%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_058 a mdhn:VisualArtwork ;
+    rdfs:label "Northeast Iwan of Shah Mosque kenyon_B_058"@en ;
+    mdhn:hasDepicts mdhn:site_1622 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Courtyard,
+        mdhn:Courtyard_of_Shah_Mosque,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Iwan,
+        mdhn:Northeast_Iwan_of_Shah_Mosque,
+        mdhn:People,
+        mdhn:Pointed_Arches,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shah_Mosque_of_Isfahan ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_058%2FB058%20Northeast%20Iwan%20of%20Shah%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_059 a mdhn:VisualArtwork ;
+    rdfs:label "Northwest Iwan of Shah Mosque kenyon_B_059"@en ;
+    mdhn:hasDepicts mdhn:site_1622 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Courtyard_of_Shah_Mosque,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Full_View,
+        mdhn:Iwan,
+        mdhn:Lattice_Windows,
+        mdhn:Northwest_Iwan_of_Shah_Mosque,
+        mdhn:Pointed_Arches,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shah_Mosque_of_Isfahan,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_059%2FB059%20Northwest%20Iwan%20of%20Shah%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_060 a mdhn:VisualArtwork ;
+    rdfs:label "Southeast Iwan of Shah Mosque kenyon_B_060"@en ;
+    mdhn:hasDepicts mdhn:site_1622 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Courtyard_of_Shah_Mosque,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Full_View,
+        mdhn:Iwan,
+        mdhn:Lattice_Windows,
+        mdhn:Pointed_Arches,
+        mdhn:Pool,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shah_Mosque_of_Isfahan,
+        mdhn:Southeast_Iwan_of_Shah_Mosque,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_060%2FB060%20Southeast%20Iwan%20of%20Shah%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_076 a mdhn:VisualArtwork ;
+    rdfs:label "Sheikh Lotfollah Mosque across Square kenyon_B_076"@en ;
+    mdhn:hasDepicts mdhn:site_1623 ;
+    mdhn:hasSubject mdhn:Afar,
+        mdhn:Bulbous_Dome,
+        mdhn:Columns,
+        mdhn:Dome,
+        mdhn:Full_View,
+        mdhn:Maidan,
+        mdhn:Mosque,
+        mdhn:Naqsh_e_Jahan_Square,
+        mdhn:Pool,
+        mdhn:Portico,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shaykh_Lutfallah_Mosque,
+        mdhn:Trees,
+        mdhn:Wooden_Columns ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_076%2FB076%20Sheikh%20Lotfollah%20Mosque%20across%20Square.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_077 a mdhn:VisualArtwork ;
+    rdfs:label "Façade of Shaykh Lutfallah Mosque kenyon_B_077"@en ;
+    mdhn:hasDepicts mdhn:site_1623 ;
+    mdhn:hasSubject mdhn:Bulbous_Dome,
+        mdhn:Dome,
+        mdhn:Facade,
+        mdhn:Lattice_Windows,
+        mdhn:Mosque,
+        mdhn:Muqarnas,
+        mdhn:People,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shaykh_Lutfallah_Mosque,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_077%2FB077%20Fa%C3%A7ade%20of%20Shaykh%20Lutfallah%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_078 a mdhn:VisualArtwork ;
+    rdfs:label "Façade of Shaykh Lutfallah Mosque kenyon_B_078"@en ;
+    mdhn:hasDepicts mdhn:site_1623 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Arches,
+        mdhn:Columns,
+        mdhn:Engaged_Columns,
+        mdhn:Inscription,
+        mdhn:People,
+        mdhn:Pointed_Arches,
+        mdhn:Quranic_Inscription,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shaykh_Lutfallah_Mosque,
+        mdhn:Thuluth_Script,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_078%2FB078%20Fa%C3%A7ade%20of%20Shaykh%20Lutfallah%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_J_026 a mdhn:VisualArtwork ;
+    rdfs:label "Minaret Ali Mosque kenyon_J_026"@en ;
+    mdhn:hasDepicts mdhn:site_1611 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Brick,
+        mdhn:Columns,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Inscription,
+        mdhn:Kufic_Script,
+        mdhn:Minaret,
+        mdhn:Mosque,
+        mdhn:Pointed_Arches,
+        mdhn:Seljuk,
+        mdhn:Text,
+        mdhn:Thuluth_Script,
+        mdhn:Tiles,
+        mdhn:Twelfth_Century ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_J_026%2FJ026%20Minar%20Ali%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_J_031 a mdhn:VisualArtwork ;
+    rdfs:label "Chehel Dokhtaran Minaret kenyon_J_031"@en ;
+    mdhn:hasDepicts mdhn:site_1614 ;
+    mdhn:hasSubject mdhn:Brick,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Inscription,
+        mdhn:Kufic_Script,
+        mdhn:Minaret,
+        mdhn:Mosque,
+        mdhn:Seljuk,
+        mdhn:Text,
+        mdhn:Twelfth_Century ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_J_031%2FJ031%20Chehel%20Dokhtaran%20Minaret.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_J_032 a mdhn:VisualArtwork ;
+    rdfs:label "Chehel Dokhtaran Minaret kenyon_J_032"@en ;
+    mdhn:hasDepicts mdhn:site_1614 ;
+    mdhn:hasSubject mdhn:Brick,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Inscription,
+        mdhn:Kufic_Script,
+        mdhn:Minaret,
+        mdhn:Mosque,
+        mdhn:Seljuk,
+        mdhn:Text,
+        mdhn:Twelfth_Century ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_J_032%2FJ032%20Chehel%20Dokhtaran%20Minaret.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:Afar a mdhn:SubjectTerm ;
+    rdfs:label "Afar"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+<http://example.com/mdhn/Banna'i> a mdhn:SubjectTerm ;
+    rdfs:label "Banna'i"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Barrel_Vault a mdhn:SubjectTerm ;
+    rdfs:label "Barrel Vault"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Basin a mdhn:SubjectTerm ;
+    rdfs:label "Basin"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Brick_Masonry a mdhn:SubjectTerm ;
+    rdfs:label "Brick, Masonry"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Eleventh_Century a mdhn:SubjectTerm ;
+    rdfs:label "Eleventh Century"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Facade a mdhn:SubjectTerm ;
+    rdfs:label "Facade"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Flowers a mdhn:SubjectTerm ;
+    rdfs:label "Flowers"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Islamic_Architecture a mdhn:SubjectTerm ;
+    rdfs:label "Islamic Architecture"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Islamic_Stucco_Decoration a mdhn:SubjectTerm ;
+    rdfs:label "Islamic Stucco Decoration"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Lamp a mdhn:SubjectTerm ;
+    rdfs:label "Lamp"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Maidan a mdhn:SubjectTerm ;
+    rdfs:label "Maidan"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Naqsh_e_Jahan_Square a mdhn:SubjectTerm ;
+    rdfs:label "Naqsh-e Jahan Square"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Northwest_Iwan_of_Shah_Mosque a mdhn:SubjectTerm ;
+    rdfs:label "Northwest Iwan of Shah Mosque"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Peirs a mdhn:SubjectTerm ;
+    rdfs:label "Peirs"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Persian_Architecture a mdhn:SubjectTerm ;
+    rdfs:label "Persian Architecture"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Portico a mdhn:SubjectTerm ;
+    rdfs:label "Portico"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Ribbed_Vault a mdhn:SubjectTerm ;
+    rdfs:label "Ribbed Vault"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Rosette a mdhn:SubjectTerm ;
+    rdfs:label "Rosette"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Southeast_Iwan_of_Friday_Mosque a mdhn:SubjectTerm ;
+    rdfs:label "Southeast Iwan of Friday Mosque"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Southeast_Iwan_of_Shah_Mosque a mdhn:SubjectTerm ;
+    rdfs:label "Southeast Iwan of Shah Mosque"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Stucco_Carving a mdhn:SubjectTerm ;
+    rdfs:label "Stucco Carving"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Stucco_Decoration a mdhn:SubjectTerm ;
+    rdfs:label "Stucco Decoration"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Taj_al_Mulk a mdhn:SubjectTerm ;
+    rdfs:label "Taj al-Mulk"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Trees a mdhn:SubjectTerm ;
+    rdfs:label "Trees"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Wooden_Columns a mdhn:SubjectTerm ;
+    rdfs:label "Wooden Columns"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:site_1611 a mdhn:CHABuilding ;
+    rdfs:label "Masjid-i Ali"@en ;
+    sc:sameAs "https://www.archnet.org/sites/1611"@en .
+
+mdhn:Bulbous_Dome a mdhn:SubjectTerm ;
+    rdfs:label "Bulbous Dome"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Cars a mdhn:SubjectTerm ;
+    rdfs:label "Cars"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Coridor a mdhn:SubjectTerm ;
+    rdfs:label "Coridor"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Hazarbaf a mdhn:SubjectTerm ;
+    rdfs:label "Hazarbaf"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Marble a mdhn:SubjectTerm ;
+    rdfs:label "Marble"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Northeast_Iwan_of_Shah_Mosque a mdhn:SubjectTerm ;
+    rdfs:label "Northeast Iwan of Shah Mosque"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Piers a mdhn:SubjectTerm ;
+    rdfs:label "Piers"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Stone a mdhn:SubjectTerm ;
+    rdfs:label "Stone"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:site_1614 a mdhn:CHABuilding ;
+    rdfs:label "Manar-i Chihil Dukhtaran"@en ;
+    sc:sameAs "https://www.archnet.org/sites/1614"@en .
+
+mdhn:Courtyard_of_Shah_Mosque a mdhn:SubjectTerm ;
+    rdfs:label "Courtyard of Shah Mosque"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Engaged_Columns a mdhn:SubjectTerm ;
+    rdfs:label "Engaged Columns"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Haydar a mdhn:SubjectTerm ;
+    rdfs:label "Haydar"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Ilkhanid a mdhn:SubjectTerm ;
+    rdfs:label "Ilkhanid"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Mihrab_of_Uljaytu a mdhn:SubjectTerm ;
+    rdfs:label "Mihrab of Uljaytu"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Rozetta a mdhn:SubjectTerm ;
+    rdfs:label "Rozetta"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Shaykh_Lutfallah_Mosque a mdhn:SubjectTerm ;
+    rdfs:label "Shaykh Lutfallah Mosque"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Stone_Carving a mdhn:SubjectTerm ;
+    rdfs:label "Stone Carving"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Stucco a mdhn:SubjectTerm ;
+    rdfs:label "Stucco"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:site_1623 a mdhn:CHABuilding ;
+    rdfs:label "Masjid-i Shaykh Lutfallah"@en ;
+    sc:sameAs "https://www.archnet.org/sites/1623"@en .
+
+mdhn:Carving a mdhn:SubjectTerm ;
+    rdfs:label "Carving"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Corridor a mdhn:SubjectTerm ;
+    rdfs:label "Corridor"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Decoration_and_Ornament a mdhn:SubjectTerm ;
+    rdfs:label "Decoration and Ornament"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Mihrab a mdhn:SubjectTerm ;
+    rdfs:label "Mihrab"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Pool a mdhn:SubjectTerm ;
+    rdfs:label "Pool"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Southwest_Iwan_of_Friday_Mosque a mdhn:SubjectTerm ;
+    rdfs:label "Southwest Iwan of Friday Mosque"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Decorated_Barrel_Vault a mdhn:SubjectTerm ;
+    rdfs:label "Decorated Barrel Vault"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Muzaffarid a mdhn:SubjectTerm ;
+    rdfs:label "Muzaffarid"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Northwest_Iwan_of_Friday_Mosque a mdhn:SubjectTerm ;
+    rdfs:label "Northwest Iwan of Friday Mosque"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Skylight a mdhn:SubjectTerm ;
+    rdfs:label "Skylight"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Courtyard a mdhn:SubjectTerm ;
+    rdfs:label "Courtyard"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Courtyard_of_Friday_Mosque a mdhn:SubjectTerm ;
+    rdfs:label "Courtyard of Friday Mosque"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Dome a mdhn:SubjectTerm ;
+    rdfs:label "Dome"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Full_View a mdhn:SubjectTerm ;
+    rdfs:label "Full View"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Muzaffarid_Madrasa a mdhn:SubjectTerm ;
+    rdfs:label "Muzaffarid Madrasa"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Fourteenth_Century a mdhn:SubjectTerm ;
+    rdfs:label "Fourteenth Century"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:People a mdhn:SubjectTerm ;
+    rdfs:label "People"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Columns a mdhn:SubjectTerm ;
+    rdfs:label "Columns"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Minaret a mdhn:SubjectTerm ;
+    rdfs:label "Minaret"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Lattice_Windows a mdhn:SubjectTerm ;
+    rdfs:label "Lattice Windows"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Mosque a mdhn:SubjectTerm ;
+    rdfs:label "Mosque"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Shah_Mosque_of_Isfahan a mdhn:SubjectTerm ;
+    rdfs:label "Shah Mosque of Isfahan"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:site_1622 a mdhn:CHABuilding ;
+    rdfs:label "Masjid-i Imam (Isfahan)"@en ;
+    sc:sameAs "https://www.archnet.org/sites/1622"@en .
+
+mdhn:Iwan a mdhn:SubjectTerm ;
+    rdfs:label "Iwan"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Kufic_Script a mdhn:SubjectTerm ;
+    rdfs:label "Kufic Script"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Thuluth_Script a mdhn:SubjectTerm ;
+    rdfs:label "Thuluth Script"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Twelfth_Century a mdhn:SubjectTerm ;
+    rdfs:label "Twelfth Century"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Masonry a mdhn:SubjectTerm ;
+    rdfs:label "Masonry"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Muqarnas a mdhn:SubjectTerm ;
+    rdfs:label "Muqarnas"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Red_Slides a mdhn:SubjectTerm ;
+    rdfs:label "Red Slides"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Safavid a mdhn:SubjectTerm ;
+    rdfs:label "Safavid"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Seventeenth_Century a mdhn:SubjectTerm ;
+    rdfs:label "Seventeenth Century"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Vaulting a mdhn:SubjectTerm ;
+    rdfs:label "Vaulting"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Seljuk a mdhn:SubjectTerm ;
+    rdfs:label "Seljuk"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Text a mdhn:SubjectTerm ;
+    rdfs:label "Text"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Quranic_Inscription a mdhn:SubjectTerm ;
+    rdfs:label "Quranic Inscription"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Arabic_Inscription a mdhn:SubjectTerm ;
+    rdfs:label "Arabic Inscription"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Brick a mdhn:SubjectTerm ;
+    rdfs:label "Brick"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Inscription a mdhn:SubjectTerm ;
+    rdfs:label "Inscription"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Decoration_and_Ornaments a mdhn:SubjectTerm ;
+    rdfs:label "Decoration and Ornaments"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Tiles a mdhn:SubjectTerm ;
+    rdfs:label "Tiles"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Pointed_Arches a mdhn:SubjectTerm ;
+    rdfs:label "Pointed Arches"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Arches a mdhn:SubjectTerm ;
+    rdfs:label "Arches"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Friday_Mosque_of_Isfahan a mdhn:SubjectTerm ;
+    rdfs:label "Friday Mosque of Isfahan"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:site_1621 a mdhn:CHABuilding ;
+    rdfs:label "Masjid-i Jami (Isfahan)"@en ;
+    sc:sameAs "https://www.archnet.org/sites/1621"@en .
