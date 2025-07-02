@@ -926,6 +926,123 @@ mdhn:kenyon_B_078 a mdhn:VisualArtwork ;
     mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_078%2FB078%20Fa%C3%A7ade%20of%20Shaykh%20Lutfallah%20Mosque.jpg/full/max/0/default.jpg"@en ;
     sc:creator "Chalmers Library, Kenyon College"@en .
 
+mdhn:kenyon_B_079 a mdhn:VisualArtwork ;
+    rdfs:label "Façade of Shaykh Lutfallah Mosque kenyon_B_079"@en ;
+    mdhn:hasDepicts mdhn:site_1623 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:People,
+        mdhn:Pointed_Arches,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shaykh_Lutfallah_Mosque,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_079%2FB079%20Fa%C3%A7ade%20of%20Shaykh%20Lutfallah%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_080 a mdhn:VisualArtwork ;
+    rdfs:label "Façade of Shaykh Lutfallah Mosque kenyon_B_080"@en ;
+    mdhn:hasDepicts mdhn:site_1623 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Decoration_and_Ornaments,
+        mdhn:Lattice_Windows,
+        mdhn:Pointed_Arches,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shaykh_Lutfallah_Mosque,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_080%2FB080%20Fa%C3%A7ade%20of%20Shaykh%20Lutfallah%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_081 a mdhn:VisualArtwork ;
+    rdfs:label "Dome of Shaykh Lutfallah Mosque kenyon_B_081"@en ;
+    mdhn:hasDepicts mdhn:site_1623 ;
+    mdhn:hasSubject mdhn:Afar,
+        mdhn:Arabic_Inscription,
+        mdhn:Arches,
+        mdhn:Bulbous_Dome,
+        mdhn:Dome,
+        mdhn:Full_View,
+        mdhn:Inscription,
+        mdhn:Kufic_Script,
+        mdhn:Pointed_Arches,
+        mdhn:Quranic_Inscription,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shaykh_Lutfallah_Mosque,
+        mdhn:Text,
+        mdhn:Thuluth_Script,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_081%2FB081%20Dome%20of%20Shaykh%20Lutfallah%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_082 a mdhn:VisualArtwork ;
+    rdfs:label "Dome of Shaykh Lutfallah Mosque kenyon_B_082"@en ;
+    mdhn:hasDepicts mdhn:site_1623 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Arches,
+        mdhn:Bulbous_Dome,
+        mdhn:Dome,
+        mdhn:Inscription,
+        mdhn:Kufic_Script,
+        mdhn:Pointed_Arches,
+        mdhn:Quranic_Inscription,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shaykh_Lutfallah_Mosque,
+        mdhn:Text,
+        mdhn:Thuluth_Script,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_082%2FB082%20Dome%20of%20Shaykh%20Lutfallah%20Mosque.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_083 a mdhn:VisualArtwork ;
+    rdfs:label "Mihrab in Shaykh Lutfallah Dome kenyon_B_083"@en ;
+    mdhn:hasDepicts mdhn:site_1623 ;
+    mdhn:hasSubject mdhn:Arabic_Inscription,
+        mdhn:Arches,
+        mdhn:Inscription,
+        mdhn:Mihrab,
+        mdhn:Muqarnas,
+        mdhn:Pointed_Arches,
+        mdhn:Quranic_Inscription,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shaykh_Lutfallah_Mosque,
+        mdhn:Text,
+        mdhn:Thuluth_Script,
+        mdhn:Tiles ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_083%2FB083%20Mihrab%20in%20Shaykh%20Lutfallah%20Dome.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_084 a mdhn:VisualArtwork ;
+    rdfs:label "Mosque of Shaykh Lutfallah kenyon_B_084"@en ;
+    mdhn:hasDepicts mdhn:site_1623 ;
+    mdhn:hasSubject mdhn:Lattice_Windows,
+        mdhn:Safavid,
+        mdhn:Seventeenth_Century,
+        mdhn:Shaykh_Lutfallah_Mosque ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_084%2FB084%20Mosque%20of%20Shaykh%20Lutfallah.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
+mdhn:kenyon_B_085 a mdhn:VisualArtwork ;
+    rdfs:label "Entrance of Chahar Bagh Madrasa kenyon_B_085"@en ;
+    mdhn:hasDepicts mdhn:site_1620 ;
+    mdhn:hasSubject mdhn:Arches,
+        mdhn:Bulbous_Dome,
+        mdhn:Chahar_Bagh_Madrasa,
+        mdhn:Dome,
+        mdhn:Eighteenth_Century,
+        mdhn:Iwan,
+        mdhn:Madrasa,
+        mdhn:Minaret,
+        mdhn:Pointed_Arches,
+        mdhn:Pool,
+        mdhn:Safavid,
+        mdhn:Trees ;
+    mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_B_085%2FB085%20Entrance%20of%20Chahar%20Bagh%20Madrasa.jpg/full/max/0/default.jpg"@en ;
+    sc:creator "Chalmers Library, Kenyon College"@en .
+
 mdhn:kenyon_J_026 a mdhn:VisualArtwork ;
     rdfs:label "Minaret Ali Mosque kenyon_J_026"@en ;
     mdhn:hasDepicts mdhn:site_1611 ;
@@ -976,10 +1093,6 @@ mdhn:kenyon_J_032 a mdhn:VisualArtwork ;
     mdhn:iiifImage "https://iiif.archive.org/image/iiif/3/kenyon_J_032%2FJ032%20Chehel%20Dokhtaran%20Minaret.jpg/full/max/0/default.jpg"@en ;
     sc:creator "Chalmers Library, Kenyon College"@en .
 
-mdhn:Afar a mdhn:SubjectTerm ;
-    rdfs:label "Afar"@en ;
-    sc:sameAs "aat:900032121"@en .
-
 <http://example.com/mdhn/Banna'i> a mdhn:SubjectTerm ;
     rdfs:label "Banna'i"@en ;
     sc:sameAs "aat:900032121"@en .
@@ -994,6 +1107,14 @@ mdhn:Basin a mdhn:SubjectTerm ;
 
 mdhn:Brick_Masonry a mdhn:SubjectTerm ;
     rdfs:label "Brick, Masonry"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Chahar_Bagh_Madrasa a mdhn:SubjectTerm ;
+    rdfs:label "Chahar Bagh Madrasa"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Eighteenth_Century a mdhn:SubjectTerm ;
+    rdfs:label "Eighteenth Century"@en ;
     sc:sameAs "aat:900032121"@en .
 
 mdhn:Eleventh_Century a mdhn:SubjectTerm ;
@@ -1018,6 +1139,10 @@ mdhn:Islamic_Stucco_Decoration a mdhn:SubjectTerm ;
 
 mdhn:Lamp a mdhn:SubjectTerm ;
     rdfs:label "Lamp"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Madrasa a mdhn:SubjectTerm ;
+    rdfs:label "Madrasa"@en ;
     sc:sameAs "aat:900032121"@en .
 
 mdhn:Maidan a mdhn:SubjectTerm ;
@@ -1072,10 +1197,6 @@ mdhn:Taj_al_Mulk a mdhn:SubjectTerm ;
     rdfs:label "Taj al-Mulk"@en ;
     sc:sameAs "aat:900032121"@en .
 
-mdhn:Trees a mdhn:SubjectTerm ;
-    rdfs:label "Trees"@en ;
-    sc:sameAs "aat:900032121"@en .
-
 mdhn:Wooden_Columns a mdhn:SubjectTerm ;
     rdfs:label "Wooden Columns"@en ;
     sc:sameAs "aat:900032121"@en .
@@ -1084,8 +1205,12 @@ mdhn:site_1611 a mdhn:CHABuilding ;
     rdfs:label "Masjid-i Ali"@en ;
     sc:sameAs "https://www.archnet.org/sites/1611"@en .
 
-mdhn:Bulbous_Dome a mdhn:SubjectTerm ;
-    rdfs:label "Bulbous Dome"@en ;
+mdhn:site_1620 a mdhn:CHABuilding ;
+    rdfs:label "Madrasah-i Madar-i Shah"@en ;
+    sc:sameAs "https://www.archnet.org/sites/1620"@en .
+
+mdhn:Afar a mdhn:SubjectTerm ;
+    rdfs:label "Afar"@en ;
     sc:sameAs "aat:900032121"@en .
 
 mdhn:Cars a mdhn:SubjectTerm ;
@@ -1116,6 +1241,10 @@ mdhn:Stone a mdhn:SubjectTerm ;
     rdfs:label "Stone"@en ;
     sc:sameAs "aat:900032121"@en .
 
+mdhn:Trees a mdhn:SubjectTerm ;
+    rdfs:label "Trees"@en ;
+    sc:sameAs "aat:900032121"@en .
+
 mdhn:site_1614 a mdhn:CHABuilding ;
     rdfs:label "Manar-i Chihil Dukhtaran"@en ;
     sc:sameAs "https://www.archnet.org/sites/1614"@en .
@@ -1144,10 +1273,6 @@ mdhn:Rozetta a mdhn:SubjectTerm ;
     rdfs:label "Rozetta"@en ;
     sc:sameAs "aat:900032121"@en .
 
-mdhn:Shaykh_Lutfallah_Mosque a mdhn:SubjectTerm ;
-    rdfs:label "Shaykh Lutfallah Mosque"@en ;
-    sc:sameAs "aat:900032121"@en .
-
 mdhn:Stone_Carving a mdhn:SubjectTerm ;
     rdfs:label "Stone Carving"@en ;
     sc:sameAs "aat:900032121"@en .
@@ -1155,10 +1280,6 @@ mdhn:Stone_Carving a mdhn:SubjectTerm ;
 mdhn:Stucco a mdhn:SubjectTerm ;
     rdfs:label "Stucco"@en ;
     sc:sameAs "aat:900032121"@en .
-
-mdhn:site_1623 a mdhn:CHABuilding ;
-    rdfs:label "Masjid-i Shaykh Lutfallah"@en ;
-    sc:sameAs "https://www.archnet.org/sites/1623"@en .
 
 mdhn:Carving a mdhn:SubjectTerm ;
     rdfs:label "Carving"@en ;
@@ -1172,20 +1293,20 @@ mdhn:Decoration_and_Ornament a mdhn:SubjectTerm ;
     rdfs:label "Decoration and Ornament"@en ;
     sc:sameAs "aat:900032121"@en .
 
-mdhn:Mihrab a mdhn:SubjectTerm ;
-    rdfs:label "Mihrab"@en ;
-    sc:sameAs "aat:900032121"@en .
-
-mdhn:Pool a mdhn:SubjectTerm ;
-    rdfs:label "Pool"@en ;
-    sc:sameAs "aat:900032121"@en .
-
 mdhn:Southwest_Iwan_of_Friday_Mosque a mdhn:SubjectTerm ;
     rdfs:label "Southwest Iwan of Friday Mosque"@en ;
     sc:sameAs "aat:900032121"@en .
 
+mdhn:Bulbous_Dome a mdhn:SubjectTerm ;
+    rdfs:label "Bulbous Dome"@en ;
+    sc:sameAs "aat:900032121"@en .
+
 mdhn:Decorated_Barrel_Vault a mdhn:SubjectTerm ;
     rdfs:label "Decorated Barrel Vault"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Mihrab a mdhn:SubjectTerm ;
+    rdfs:label "Mihrab"@en ;
     sc:sameAs "aat:900032121"@en .
 
 mdhn:Muzaffarid a mdhn:SubjectTerm ;
@@ -1194,6 +1315,10 @@ mdhn:Muzaffarid a mdhn:SubjectTerm ;
 
 mdhn:Northwest_Iwan_of_Friday_Mosque a mdhn:SubjectTerm ;
     rdfs:label "Northwest Iwan of Friday Mosque"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Pool a mdhn:SubjectTerm ;
+    rdfs:label "Pool"@en ;
     sc:sameAs "aat:900032121"@en .
 
 mdhn:Skylight a mdhn:SubjectTerm ;
@@ -1208,14 +1333,6 @@ mdhn:Courtyard_of_Friday_Mosque a mdhn:SubjectTerm ;
     rdfs:label "Courtyard of Friday Mosque"@en ;
     sc:sameAs "aat:900032121"@en .
 
-mdhn:Dome a mdhn:SubjectTerm ;
-    rdfs:label "Dome"@en ;
-    sc:sameAs "aat:900032121"@en .
-
-mdhn:Full_View a mdhn:SubjectTerm ;
-    rdfs:label "Full View"@en ;
-    sc:sameAs "aat:900032121"@en .
-
 mdhn:Muzaffarid_Madrasa a mdhn:SubjectTerm ;
     rdfs:label "Muzaffarid Madrasa"@en ;
     sc:sameAs "aat:900032121"@en .
@@ -1224,24 +1341,40 @@ mdhn:Fourteenth_Century a mdhn:SubjectTerm ;
     rdfs:label "Fourteenth Century"@en ;
     sc:sameAs "aat:900032121"@en .
 
-mdhn:People a mdhn:SubjectTerm ;
-    rdfs:label "People"@en ;
+mdhn:Full_View a mdhn:SubjectTerm ;
+    rdfs:label "Full View"@en ;
     sc:sameAs "aat:900032121"@en .
 
 mdhn:Columns a mdhn:SubjectTerm ;
     rdfs:label "Columns"@en ;
     sc:sameAs "aat:900032121"@en .
 
+mdhn:People a mdhn:SubjectTerm ;
+    rdfs:label "People"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Dome a mdhn:SubjectTerm ;
+    rdfs:label "Dome"@en ;
+    sc:sameAs "aat:900032121"@en .
+
 mdhn:Minaret a mdhn:SubjectTerm ;
     rdfs:label "Minaret"@en ;
     sc:sameAs "aat:900032121"@en .
 
-mdhn:Lattice_Windows a mdhn:SubjectTerm ;
-    rdfs:label "Lattice Windows"@en ;
+mdhn:Shaykh_Lutfallah_Mosque a mdhn:SubjectTerm ;
+    rdfs:label "Shaykh Lutfallah Mosque"@en ;
     sc:sameAs "aat:900032121"@en .
+
+mdhn:site_1623 a mdhn:CHABuilding ;
+    rdfs:label "Masjid-i Shaykh Lutfallah"@en ;
+    sc:sameAs "https://www.archnet.org/sites/1623"@en .
 
 mdhn:Mosque a mdhn:SubjectTerm ;
     rdfs:label "Mosque"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Lattice_Windows a mdhn:SubjectTerm ;
+    rdfs:label "Lattice Windows"@en ;
     sc:sameAs "aat:900032121"@en .
 
 mdhn:Shah_Mosque_of_Isfahan a mdhn:SubjectTerm ;
@@ -1256,44 +1389,36 @@ mdhn:Iwan a mdhn:SubjectTerm ;
     rdfs:label "Iwan"@en ;
     sc:sameAs "aat:900032121"@en .
 
-mdhn:Kufic_Script a mdhn:SubjectTerm ;
-    rdfs:label "Kufic Script"@en ;
-    sc:sameAs "aat:900032121"@en .
-
-mdhn:Thuluth_Script a mdhn:SubjectTerm ;
-    rdfs:label "Thuluth Script"@en ;
-    sc:sameAs "aat:900032121"@en .
-
 mdhn:Twelfth_Century a mdhn:SubjectTerm ;
     rdfs:label "Twelfth Century"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Kufic_Script a mdhn:SubjectTerm ;
+    rdfs:label "Kufic Script"@en ;
     sc:sameAs "aat:900032121"@en .
 
 mdhn:Masonry a mdhn:SubjectTerm ;
     rdfs:label "Masonry"@en ;
     sc:sameAs "aat:900032121"@en .
 
-mdhn:Muqarnas a mdhn:SubjectTerm ;
-    rdfs:label "Muqarnas"@en ;
-    sc:sameAs "aat:900032121"@en .
-
 mdhn:Red_Slides a mdhn:SubjectTerm ;
     rdfs:label "Red Slides"@en ;
-    sc:sameAs "aat:900032121"@en .
-
-mdhn:Safavid a mdhn:SubjectTerm ;
-    rdfs:label "Safavid"@en ;
-    sc:sameAs "aat:900032121"@en .
-
-mdhn:Seventeenth_Century a mdhn:SubjectTerm ;
-    rdfs:label "Seventeenth Century"@en ;
     sc:sameAs "aat:900032121"@en .
 
 mdhn:Vaulting a mdhn:SubjectTerm ;
     rdfs:label "Vaulting"@en ;
     sc:sameAs "aat:900032121"@en .
 
+mdhn:Muqarnas a mdhn:SubjectTerm ;
+    rdfs:label "Muqarnas"@en ;
+    sc:sameAs "aat:900032121"@en .
+
 mdhn:Seljuk a mdhn:SubjectTerm ;
     rdfs:label "Seljuk"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Thuluth_Script a mdhn:SubjectTerm ;
+    rdfs:label "Thuluth Script"@en ;
     sc:sameAs "aat:900032121"@en .
 
 mdhn:Text a mdhn:SubjectTerm ;
@@ -1304,12 +1429,20 @@ mdhn:Quranic_Inscription a mdhn:SubjectTerm ;
     rdfs:label "Quranic Inscription"@en ;
     sc:sameAs "aat:900032121"@en .
 
-mdhn:Arabic_Inscription a mdhn:SubjectTerm ;
-    rdfs:label "Arabic Inscription"@en ;
-    sc:sameAs "aat:900032121"@en .
-
 mdhn:Brick a mdhn:SubjectTerm ;
     rdfs:label "Brick"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Seventeenth_Century a mdhn:SubjectTerm ;
+    rdfs:label "Seventeenth Century"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Safavid a mdhn:SubjectTerm ;
+    rdfs:label "Safavid"@en ;
+    sc:sameAs "aat:900032121"@en .
+
+mdhn:Arabic_Inscription a mdhn:SubjectTerm ;
+    rdfs:label "Arabic Inscription"@en ;
     sc:sameAs "aat:900032121"@en .
 
 mdhn:Inscription a mdhn:SubjectTerm ;
