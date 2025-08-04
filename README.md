@@ -269,6 +269,68 @@ To use this ontology:
 - The ontology uses English labels and comments for accessibility, but it can be extended to include Persian (Farsi) annotations for cultural specificity.
 - Ensure that any data added to the ontology adheres to the defined domains and ranges for object properties to maintain consistency.
 - The ontology can be integrated with other cultural heritage ontologies (e.g., CIDOC-CRM) for broader interoperability.
+- 
+
+# Use Cases for Associating LandmarkOrHistoricalBuilding and VisualArtwork
+
+The association between `LandmarkOrHistoricalBuilding` and `VisualArtwork` in the Persian architecture ontology, linked via the `ex:hasVisualRepresentation` property, is critical for enabling diverse applications in a knowledge graph focused on high-level IIIF images and slides. This relationship connects physical architectural landmarks (e.g., Persepolis, Tomb of Sultan Uljaitu) with their digital representations (e.g., IIIF images), enriched by taxonomic subjects (e.g., dome, muqarnas) and genres (e.g., Ilkhanid, Achaemenid). Below are key use cases, emphasizing their importance in your scenario prioritizing Persian architecture, Schema.org integration, and taxonomic classification.
+
+## 1. Digital Preservation and Documentation
+- **Description**: Links landmarks to high-quality IIIF images for digital archiving. For example, `TombOfSultanUljaitu` is associated with `TombUljaituImage1`, a high-resolution image of its dome.
+- **Importance**: Ensures preservation of visual records in an interoperable IIIF format, enabling study and conservation without physical access. Schema.org enhances web discoverability.
+- **Example**: Conservationists access IIIF images of Persepolis’ Apadana reliefs (`PersepolisImage1`) to monitor deterioration, using metadata on `ApadanaReliefs` and `AchaemenidStyle`.
+
+## 2. Enhanced Research and Analysis
+- **Description**: Enables querying architectural features across landmarks via visual representations and taxons. Researchers can retrieve VisualArtworks with subjects like `Dome`.
+- **Importance**: Supports comparative studies of architectural elements (e.g., muqarnas in Ilkhanid vs. Safavid styles) using detailed visual evidence and taxonomic metadata.
+- **Example**: An art historian compares dome designs in `TombUljaituImage1` (Ilkhanid) and a Safavid mosque’s VisualArtwork, zooming into muqarnas via IIIF.
+
+## 3. Cultural Heritage Education and Virtual Tours
+- **Description**: Powers educational platforms or virtual tours combining landmark metadata with IIIF images. Users explore visuals with contextual annotations.
+- **Importance**: Makes Persian architecture globally accessible, with IIIF enabling interactive images and taxons (e.g., `Muqarnas`) providing educational insights.
+- **Example**: A museum’s online exhibit lets users view `TombUljaituImage1` for `TombOfSultanUljaitu`, with annotations explaining Ilkhanid muqarnas and domes.
+
+## 4. Semantic Search and Discovery
+- **Description**: Facilitates semantic search by subjects (e.g., `Iwan`) or genres (e.g., `SafavidStyle`) across landmarks and their VisualArtworks.
+- **Importance**: Enhances discoverability with `ex:hasSubject` and `ex:hasGenre`, while Schema.org ensures web compatibility, crucial for keyword-driven searches.
+- **Example**: A student searches “Persian domes,” retrieving `TombOfSultanUljaitu` and `TombUljaituImage1`, filtered by `Dome` and `IlkhanidStyle`.
+
+## 5. Interoperability with Digital Humanities Platforms
+- **Description**: Integrates VisualArtworks with IIIF-compatible platforms (e.g., Mirador) for cross-collection analysis, linking landmarks like `Persepolis` to IIIF manifests.
+- **Importance**: IIIF ensures reusability across institutions, and the ontology’s Schema.org/SKOS structure supports broader knowledge graph integration.
+- **Example**: A digital humanities project aggregates `PersepolisImage1` and `TombUljaituImage1`, using `AchaemenidStyle` and `Muqarnas` metadata for comparisons.
+
+## 6. Augmented Reality (AR) and 3D Reconstructions
+- **Description**: Supports AR or 3D reconstructions by providing visual references (e.g., `TombUljaituImage1` for dome and muqarnas) to inform digital models.
+- **Importance**: IIIF images supply detailed textures, and taxonomic metadata ensures accurate representation of architectural features and styles.
+- **Example**: An AR app overlays `TombUljaituImage1` onto a 3D model of the Tomb of Sultan Uljaitu, highlighting muqarnas for on-site visitors.
+
+## 7. Crowdsourcing and Community Engagement
+- **Description**: Enables crowdsourcing of annotations or new VisualArtworks for landmarks, such as user-uploaded IIIF images of `Persepolis` tagged with `ApadanaReliefs`.
+- **Importance**: Expands visual resources dynamically, with taxons ensuring consistency, fostering public participation in documenting Persian architecture.
+- **Example**: A platform invites users to upload IIIF images of Persian landmarks, associating them with taxons like `Iwan` or `SafavidStyle`.
+
+## Technical Implementation Notes
+- **Querying**: SPARQL queries leverage `ex:hasVisualRepresentation` to retrieve VisualArtworks by landmark or taxon. Example:
+  ```sparql
+  SELECT ?landmark ?image ?subject
+  WHERE {
+      ?landmark a ex:LandmarkOrHistoricalBuilding .
+      ?image ex:hasVisualRepresentation ?landmark .
+      ?image ex:hasSubject ?subject .
+      ?subject skos:prefLabel "Dome"@en .
+  }
+  ```
+- **IIIF Integration**: The `ex:iiifManifest` property links VisualArtworks to IIIF manifests for zoomable images in viewers like Mirador.
+- **Scalability**: Schema.org and SKOS ensure extensibility for adding new landmarks and taxons, supporting large-scale knowledge graphs.
+
+## Why This Matters in this Scenario
+The `ex:hasVisualRepresentation` association is vital because it:
+- Bridges physical landmarks with digital assets, enabling preservation, study, and access.
+- Supports detailed annotation via subjects (e.g., `Dome`, `Muqarnas`) and genres (e.g., `IlkhanidStyle`), aligning with your keyword focus from sources like the Denis Baly Image Collection.
+- Leverages IIIF and Schema.org for interoperability and discoverability, meeting your goal of a modern, standards-compliant knowledge graph.
+
+These use cases highlight the association’s versatility, from academic research to public engagement, making your ontology a robust tool for Persian architectural heritage.
 
 ## License
 The ontology is not explicitly licensed in the Turtle file. Users should contact the ontology creator or repository owner for licensing information.
