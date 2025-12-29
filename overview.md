@@ -76,7 +76,7 @@ An experimental study of WikiData's hierarcgical structure in the context of som
   - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1971849&property=P279&graph_direction=down)
 - **school building**(Q1244442)
   - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1244442&property=P279&graph_direction=down) 
-- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q186347property=P279&graph_direction=down) 
+- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q186347&property=P279&graph_direction=down) 
 ### instance of **cultural property** (Q2065736)
 - subclass of
   - **cultural heritage**(Q210272)
@@ -90,7 +90,7 @@ An experimental study of WikiData's hierarcgical structure in the context of som
     - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1971849&property=P279&graph_direction=down)
   - **school building**(Q1244442)
     - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1244442&property=P279&graph_direction=down) 
-- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q186347property=P279&graph_direction=down) 
+- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q186347&property=P279&graph_direction=down) 
 ### instance of **mosque** (Q32815)
 - instance of 
   - **type of building**(Q811102)
