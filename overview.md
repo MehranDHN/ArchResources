@@ -31,12 +31,12 @@ An experimental study of WikiData's hierarcgical structure in the context of som
 
 ## Malek Caravanserai Isfahan (Q42861715) 
 ### instance of **caravanserai** (Q186347)
-- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q186347&property=P279&graph_direction=down)
 - subclass of
   - **hostel**(Q654772)
   - **halting site**(Q5643618)
   - **public accommodation**(Q115921148) 
-  - **historic building**(Q35112121)   
+  - **historic building**(Q35112121) 
+- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q186347&property=P279&graph_direction=down)    
 ### instance of **cultural property** (Q2065736)
 - subclass of
   - **cultural heritage**(Q210272)
@@ -71,12 +71,12 @@ An experimental study of WikiData's hierarcgical structure in the context of som
 - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q2065736&property=P279&graph_direction=down)
 
 ## Soltani Madrasa Kashan (Q16053991) 
-### instance of **madrasa** (Q186347)
+### instance of **madrasa** (Q132834)
 - **religious school**(Q1971849)
   - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1971849&property=P279&graph_direction=down)
 - **school building**(Q1244442)
   - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1244442&property=P279&graph_direction=down) 
-- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q186347&property=P279&graph_direction=down) 
+- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q132834&property=P279&graph_direction=down) 
 ### instance of **cultural property** (Q2065736)
 - subclass of
   - **cultural heritage**(Q210272)
@@ -84,13 +84,13 @@ An experimental study of WikiData's hierarcgical structure in the context of som
       - **heritage**(Q2434238) 
 
 ## Chaharbagh Madrasa Isfahan (Q16053991) 
-### instance of **madrasa** (Q186347)
+### instance of **madrasa** (Q132834)
 - subclass of
   - **religious school**(Q1971849)
     - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1971849&property=P279&graph_direction=down)
   - **school building**(Q1244442)
     - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1244442&property=P279&graph_direction=down) 
-- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q186347&property=P279&graph_direction=down) 
+- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q132834&property=P279&graph_direction=down) 
 ### instance of **mosque** (Q32815)
 - instance of 
   - **type of building**(Q811102)
