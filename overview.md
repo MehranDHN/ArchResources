@@ -70,4 +70,36 @@ An experimental study of WikiData's hierarcgical structure in the context of som
 ### instance of **cultural property** (Q2065736)
 - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q2065736&property=P279&graph_direction=down)
 
+## Soltani Madrasa Kashan (Q16053991) 
+### instance of **madrasa** (Q186347)
+- **religious school**(Q1971849)
+  - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1971849&property=P279&graph_direction=down)
+- **school building**(Q1244442)
+  - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1244442&property=P279&graph_direction=down) 
+- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q186347property=P279&graph_direction=down) 
+### instance of **cultural property** (Q2065736)
+- subclass of
+  - **cultural heritage**(Q210272)
+    - subclass of
+      - **heritage**(Q2434238) 
+
+## Chaharbagh Madrasa Isfahan (Q16053991) 
+### instance of **madrasa** (Q186347)
+- subclass of
+  - **religious school**(Q1971849)
+    - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1971849&property=P279&graph_direction=down)
+  - **school building**(Q1244442)
+    - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1244442&property=P279&graph_direction=down) 
+- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q186347property=P279&graph_direction=down) 
+### instance of **mosque** (Q32815)
+- instance of 
+  - **type of building**(Q811102)
+- subclass of
+  - **structure of worship**(Q1370598)
+    - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1370598&property=P279&graph_direction=down)
+  - **religious building**(Q24398318)
+    - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q24398318&property=P279&graph_direction=down)  
+  - **architectural structure**(Q811979) 
+    - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q811979&property=P279&graph_direction=down)        
+
 
