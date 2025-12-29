@@ -193,6 +193,17 @@ An experimental study of WikiData's hierarcgical structure in the context of som
           - **religious or ceremonial object** (Q115921911)
         - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q12910132&property=P279&graph_direction=down) 
       - **building** (Q41176)
+        - subclass of
+          - **architectural structure** (Q811979)
+            - instance of 
+              - **type of structure**(Q5962346)
+            - subclass of 
+              - **artificial physical structure** (Q11908691)
+              - **fixed construction** (Q811430)
+              - **work** (Q386724)
+              - **E25 Human-Made Feature** (Q134301417) 
+            - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q811979&property=P279&graph_direction=down) 
+        - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q41176&property=P279&graph_direction=down)      
       - **structure of worship**(Q1370598)
         - instance of
           - **architectural structure** (Q811979)
