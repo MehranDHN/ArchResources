@@ -8,17 +8,43 @@ An experimental study of WikiData's hierarcgical structure in the context of som
   - **type of building**(Q811102)
 - subclass of
   - **structure of worship**(Q1370598)
+    - instance of
+      - **architectural structure** (Q811979)
+        - instance of 
+          - **type of structure**(Q5962346)
+        - subclass of 
+          - **artificial physical structure** (Q11908691)
+          - **fixed construction** (Q811430)
+          - **work** (Q386724)
+          - **E25 Human-Made Feature** (Q134301417) 
+        - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q811979&property=P279&graph_direction=down)     
+      - **religious object** (Q12910132)
+        - subclass of 
+          - **religious or ceremonial object** (Q115921911)
+        - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q12910132&property=P279&graph_direction=down)                
+      - **facility** (Q13226383)
+      - **location of worship** (Q111286333)  
     - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1370598&property=P279&graph_direction=down)
   - **religious building**(Q24398318)
     - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q24398318&property=P279&graph_direction=down)  
-  - **architectural structure**(Q811979) 
-    - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q811979&property=P279&graph_direction=down)  
+    - **architectural structure**(Q811979)
+      - instance of 
+        - **type of structure**(Q5962346)
+      - subclass of 
+        - **artificial physical structure** (Q11908691)
+        - **fixed construction** (Q811430)
+        - **work** (Q386724)
+        - **E25 Human-Made Feature** (Q134301417)
+      - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q811979&property=P279&graph_direction=down)   
 - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q32815&property=P279&graph_direction=down)       
 ### instance of cultural property (Q2065736)
-- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q2065736&property=P279&graph_direction=down) 
+
 - subclass of
   - **cultural heritage**(Q210272)
-    - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q210272&property=P279&graph_direction=down)
+    - subclass of
+      - **heritage**(Q2434238) 
+    - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q210272&property=P279&graph_direction=down)  
+- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q2065736&property=P279&graph_direction=down)     
 ### instance of architectural landmark (Q2319498)
 
 - instance of 
@@ -35,17 +61,60 @@ An experimental study of WikiData's hierarcgical structure in the context of som
   - **hostel**(Q654772)
   - **halting site**(Q5643618)
   - **public accommodation**(Q115921148) 
-  - **historic building**(Q35112121) 
+  - **historic building**(Q35112127) 
+    - instance of 
+      - **building type**(Q5962346)
+    - subclass of
+      - **building**(Q41176)
+        - subclass of
+          - **architectural structure**(Q811979) 
+            - instance of 
+              - **type of structure**(Q5962346)
+            - subclass of 
+              - **artificial physical structure** (Q11908691)
+              - **fixed construction** (Q811430)
+              - **work** (Q386724)
+              - **E25 Human-Made Feature** (Q134301417) 
+            - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q811979&property=P279&graph_direction=down)               
+        - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q41176&property=P279&graph_direction=down) 
+      - **historic geographical object**(Q51369558)
+        - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q51369558&property=P279&graph_direction=down)             
 - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q186347&property=P279&graph_direction=down)    
 ### instance of **cultural property** (Q2065736)
 - subclass of
   - **cultural heritage**(Q210272)
+- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q2065736&property=P279&graph_direction=down)  
 
 
 ## Sheikh Safi al-Din Khānegāh and Shrine Ensemble (Q4243) 
 ### instance of **architectural ensemble** (Q1497375)
 - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1497375&property=P279&graph_direction=down)
 ### instance of **imamzadeh** (Q136868)
+- subclass of
+  - **tomb**(Q381885)
+  - **shrine**(Q697295)
+  - **mausoleum**(Q162875)
+    - subclass of
+      - **funerary structure**(Q6023295)
+      - **monument**(Q4989906)
+        - subclass of
+            - **architectural structure**(Q811979)
+                - instance of 
+                  - **type of structure**(Q5962346)
+                - subclass of 
+                  - **artificial physical structure** (Q11908691)
+                  - **fixed construction** (Q811430)
+                  - **work** (Q386724)
+                  - **E25 Human-Made Feature** (Q134301417)  
+                - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q811979&property=P279&graph_direction=down)                                     
+            - **work of art**(Q838948)
+            - **statue**(Q179700)   
+            - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q4989906&property=P279&graph_direction=down)                
+    - **sepulchral monument**(Q56055312) 
+    - **funeral building**(Q115096216)  
+    - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q162875&property=P279&graph_direction=down)
+
+
 - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q136868&property=P279&graph_direction=down)
 ### instance of **mausoleum** (Q162875)
 - subclass of
@@ -59,7 +128,8 @@ An experimental study of WikiData's hierarcgical structure in the context of som
               - **artificial physical structure** (Q11908691)
               - **fixed construction** (Q811430)
               - **work** (Q386724)
-              - **E25 Human-Made Feature** (Q134301417)                     
+              - **E25 Human-Made Feature** (Q134301417)
+            - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q811979&property=P279&graph_direction=down)                     
         - **work of art**(Q838948)
         - **statue**(Q179700)    
   - **sepulchral monument**(Q56055312) 
@@ -82,6 +152,7 @@ An experimental study of WikiData's hierarcgical structure in the context of som
   - **cultural heritage**(Q210272)
     - subclass of
       - **heritage**(Q2434238) 
+- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q2065736&property=P279&graph_direction=down)       
 
 ## Chaharbagh Madrasa Isfahan (Q16053991) 
 ### instance of **madrasa** (Q132834)
@@ -96,10 +167,61 @@ An experimental study of WikiData's hierarcgical structure in the context of som
   - **type of building**(Q811102)
 - subclass of
   - **structure of worship**(Q1370598)
+    - instance of
+      - **architectural structure** (Q811979)
+        - instance of 
+          - **type of structure**(Q5962346)
+        - subclass of 
+          - **artificial physical structure** (Q11908691)
+          - **fixed construction** (Q811430)
+          - **work** (Q386724)
+          - **E25 Human-Made Feature** (Q134301417) 
+        - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q811979&property=P279&graph_direction=down)     
+      - **religious object** (Q12910132)
+        - subclass of 
+          - **religious or ceremonial object** (Q115921911)
+        - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q12910132&property=P279&graph_direction=down) 
+      - **facility** (Q13226383)
+      - **location of worship** (Q111286333)  
     - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1370598&property=P279&graph_direction=down)
   - **religious building**(Q24398318)
+    - instance of 
+      - **building type**(Q811102)
+    - subclass of 
+      - **religious object** (Q12910132)
+        - subclass of 
+          - **religious or ceremonial object** (Q115921911)
+        - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q12910132&property=P279&graph_direction=down) 
+      - **building** (Q41176)
+      - **structure of worship**(Q1370598)
+        - instance of
+          - **architectural structure** (Q811979)
+            - instance of 
+              - **type of structure**(Q5962346)
+            - subclass of 
+              - **artificial physical structure** (Q11908691)
+              - **fixed construction** (Q811430)
+              - **work** (Q386724)
+              - **E25 Human-Made Feature** (Q134301417) 
+            - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q811979&property=P279&graph_direction=down)     
+          - **religious object** (Q12910132)
+            - subclass of 
+              - **religious or ceremonial object** (Q115921911)
+            - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q12910132&property=P279&graph_direction=down) 
+          - **facility** (Q13226383)
+          - **location of worship** (Q111286333)  
+        - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q1370598&property=P279&graph_direction=down) 
+      
     - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q24398318&property=P279&graph_direction=down)  
   - **architectural structure**(Q811979) 
-    - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q811979&property=P279&graph_direction=down)        
+    - instance of 
+      - **type of structure**(Q5962346)
+    - subclass of 
+      - **artificial physical structure** (Q11908691)
+      - **fixed construction** (Q811430)
+      - **work** (Q386724)
+      - **E25 Human-Made Feature** (Q134301417)
+    - [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q811979&property=P279&graph_direction=down) 
+- [Hierarchy Graph](https://angryloki.github.io/wikidata-graph-builder/?item=Q32815&property=P279&graph_direction=down)             
 
 
